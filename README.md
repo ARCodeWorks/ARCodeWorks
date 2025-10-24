@@ -48,19 +48,6 @@ Projetamos e desenvolvemos soluções personalizadas para atender às demandas e
 
 ---
 
-## 📚 Ferramentas & Tecnologias
-
-Nossas soluções são construídas com ferramentas modernas e confiáveis:
-
-- **Versionamento**: Git, GitHub
-- **CI/CD**: GitHub Actions, Vercel, Netlify
-- **Testes**: Jest, Pytest, Selenium
-- **Design**: Figma, Tailwind CSS
-- **Cloud**: AWS, Google Cloud, Vercel
-- **Documentação**: Markdown, Swagger, Notion
-
----
-
 ## 📬 Contato Comercial
 
 Para orçamentos, consultas ou parcerias, entre em contato:
